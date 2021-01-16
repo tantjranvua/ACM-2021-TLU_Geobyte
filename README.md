@@ -1,7 +1,5 @@
 # ACM-OLP-2021-TLU
 
-# Kế hoạch dạy K32 TLU
-
 ## MỤC TIÊU
 
 - Ngôn ngữ sử dụng chính: C/C++
