@@ -16,7 +16,7 @@
   - Lý thuyết số
     - Số nguyên tố (Sieve of Eratosthenes)
     - GCD and LCM Euclid’s Algorithm
-    
+  - Đệ quy , Quay lui
   - Tổ hợp xác xuất
 
   - Các công thức trong tọa độ 
