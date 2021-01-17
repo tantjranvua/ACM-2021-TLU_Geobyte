@@ -53,25 +53,25 @@
 | --- | --- | --- |
 |[**Heads Up **](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li>Một số vấn đề về biến .</li></ul>||
 |[**1.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)| ||
-|[**2.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li> </li><li> </li></ul>|<ul><li> </li><li> </li><li></li></ul>|
-|[**3.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li></ul>|<ul><li></li><li></li><li></li></ul>|
-|[**4.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li> </li><li> </li></ul>|<ul><li> </li></ul>|
-|[**5.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li> </li><li>  </li><li>  </li></ul>|<ul><li> </li><li></li></ul>|
-|[**6.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li><li></li></ul>|<ul><li></li></ul>|
-|[**7.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li></ul>||
-|[**8.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|**Questions from previous topics**||
-|[**9.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li><li></li></ul>|<ul><li></li></ul>|
-|[**10.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li></ul>|<ul><li></li></ul>|
-|[**11.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li><ul><li></li><li></li><li></li><li></li></ul></li><li></li><li></li><li></li></ul>||
-|[**12.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li><li></li></ul>||
-|[**13.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li> </li><li></li><li></li></ul>||
-|[**14.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li></ul>||
-|[**15.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li>n (DS)</li></ul>|<ul><li></li><li></li></ul>|
-|[**16.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|**Questions from previous topics**||
-|[**17.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li></ul>||
-|[**18.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li>(DS)</li></ul>||
-|[**19.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li></ul>|<ul><li></li><li></li></ul>|
-|[**20.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li></ul>|<ul><li></li></ul>|
+|[**2.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**3.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**4.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**5.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**6.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**7.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**8.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**9.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**10.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**11.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**12.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**13.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**14.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**15.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**16.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**17.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**18.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**19.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**20.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
 
 
 ### Buổi 1:
