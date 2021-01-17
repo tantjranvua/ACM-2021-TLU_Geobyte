@@ -52,7 +52,7 @@
 |Week|Topics|Home Work|
 | --- | --- | --- |
 |[**Heads Up **](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li>Một số vấn đề về biến .</li></ul>||
-|[**1.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li> </li><li></li><li> </li></ul>||
+|[**1.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)| ||
 |[**2.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li> </li><li> </li></ul>|<ul><li> </li><li> </li><li></li></ul>|
 |[**3.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li></ul>|<ul><li></li><li></li><li></li></ul>|
 |[**4.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li> </li><li> </li></ul>|<ul><li> </li></ul>|
@@ -62,7 +62,7 @@
 |[**8.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|**Questions from previous topics**||
 |[**9.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li><li></li></ul>|<ul><li></li></ul>|
 |[**10.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li></ul>|<ul><li></li></ul>|
-|[**11.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li><ul><li></li><li></li><li></li><li></li></ul></li><li></li><li></li><li>Line intersection</li></ul>||
+|[**11.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li><ul><li></li><li></li><li></li><li></li></ul></li><li></li><li></li><li></li></ul>||
 |[**12.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li><li></li></ul>||
 |[**13.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li> </li><li></li><li></li></ul>||
 |[**14.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li></li><li></li><li></li></ul>||
