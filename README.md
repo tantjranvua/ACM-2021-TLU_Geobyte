@@ -11,17 +11,48 @@
     - Queue
     - Trie
     - C++ STL : map , vector , set , ... .
-- Thuật toán:
-    - Các thuật toán cơ bản như tìm kiếm nhị phân, sắp xếp, chia để trị,...
-    - Các thuật toán nâng cao như quy hoạch động,..
-    - Tập trung nhiều luyện tập về thuật toán quy hoạch động (dynamic programing)
+### Thuật Toán
+
+  - Lý thuyết số
+    - Số nguyên tố (Sieve of Eratosthenes)
+    - GCD and LCM Euclid’s Algorithm
+    
+  - Tổ hợp xác xuất
+
+  - Các công thức trong tọa độ 
+
+  - Sorting
+    - Bulble Sort
+    - Selection Sort
+    - Insertion Sort
+    - QuickSort
+    - Merge Sort
+
+  - Searching
+    - Binary Search
+   
+   - Graph Theory
+    - Depth First Search (DFS)
+    - Breadth First Search (BFS) 
+    - Flood Fill
+    - Dijkstra’s Shortest Path
+    
+  - Dynamic programming
+    - Coin Change
+    - Longest increasing Subsequence 
+
+  - Strings
+    - Z algorithm
+    - Knuth-Morris-Pratt Algorithm (KMP)
+    - Hash
+
 - Kết hợp được thuật toán và sử dụng các cấu trúc dữ liệu có sẵn
 
 - Trong mỗi tuần sẽ có các hướng dẫn và code bài giảng cụ thể
 ## Here is our Curriculum
 |Week|Topics|Optional Topics|
 | --- | --- | --- |
-|[**Heads Up **](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week00)|<ul><li>Big O Notation</li></ul>||
+|[**Heads Up **](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week00)|<ul><li>Một số vấn đề về biến .</li></ul>||
 |[**1.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week01)|<ul><li>Prime Numbers (Sieve of Eratosthenes)</li><li>Efficient Prime Factorization</li><li>Modular Exponentiation</li></ul>||
 |[**2.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week02)|<ul><li>GCD and LCM Euclid’s Algorithm</li><li>Long arithmetic (Multi, Sum, Div, Sub)</li></ul>|<ul><li>C++ STL:Vector</li><li>C++ STL:Pairs</li><li>C++ STL:Iterators</li></ul>|
 |[**3.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week03)|<ul><li>QuickSort</li><li>Counting Sort</li></ul>|<ul><li>C++ STL:String</li><li>C++ STL:Set</li><li>C++ STL:Map</li></ul>|
