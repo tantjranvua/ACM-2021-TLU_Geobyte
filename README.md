@@ -5,7 +5,7 @@
 - Ngôn ngữ sử dụng chính: C/C++
 - Sử dụng thông thạo các kỹ năng lập trình cơ bản
 - Trang bị đầy đủ kiến thức về cấu trúc dữ liệu và thuật toán
-- Cấu trúc dữ liệu:
+### Cấu trúc dữ liệu:
     - Linked List
     - Stack
     - Queue
@@ -32,10 +32,10 @@
     - Binary Search
    
    - Graph Theory
-    - Depth First Search (DFS)
-    - Breadth First Search (BFS) 
-    - Flood Fill
-    - Dijkstra’s Shortest Path
+     - Depth First Search (DFS)
+     - Breadth First Search (BFS) 
+     - Flood Fill
+     - Dijkstra’s Shortest Path
     
   - Dynamic programming
     - Coin Change
