@@ -3,7 +3,6 @@
 
 Thuật toán là một tập hợp các hướng dẫn để tìm ra giải pháp cho một vấn đề. Nó cung cấp các hoạt động từng bước được thực hiện sẽ đưa bạn từ bất kỳ đầu vào hợp lệ nào cho vấn đề đến đầu ra.
 
-Chúng tôi đã tạo ra các thuật toán, bằng hình thức này hay hình thức khác, trong suốt lớp này.
 
 ### Hiệu quả là gì?
 
