@@ -51,7 +51,10 @@ Tất nhiên, đây cũng sẽ là độ phức tạp về thời gian của m�
 - Luật cộng : 
   -Nếu  T1(n) = O(f(n)), T2(n) = O(g(n)), thì T1(n) + T2(n) = O( max {f(n), g(n)} );
 - Đánh giá cận : tùy vào input của bài toán mà đưa ra độ phức tạp thuật toán lên dùng
+
+
 |    complexity	|maximum n |
+| :-------------: |	:-------------: |
 |Θ(n)	|100 000 000
 Θ(nlogn) |	40 000 000
 Θ(n<sup>2</sup>)	| 10 000
