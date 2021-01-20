@@ -47,6 +47,18 @@ Các thuật toán này mất nhiều thời gian hơn cho các đầu vào lớ
 Bạn sẽ thường thấy O(n log(n))trong các thuật toán "chia để trị", cắt một vấn đề thành một nửa, giải quyết cả hai nửa và kết hợp các kết quả thành một giải pháp cuối cùng. Đây O(n log(n))phức tạp nổi tiếng là sự phức tạp thời gian nhanh nhất có thể của thuật toán sắp xếp trên đầu vào không hạn chế.
 
 Tất nhiên, đây cũng sẽ là độ phức tạp về thời gian của một vòng lặp chạy theo n thời gian và O(log(n))hoạt động bên trong.
+## Một số cách tính độ phức tạp thuật toán
+- Luật cộng : 
+  -Nếu  T1(n) = O(f(n)), T2(n) = O(g(n)), thì T1(n) + T2(n) = O( max {f(n), g(n)} );
+- Đánh giá cận : tùy vào input của bài toán mà đưa ra độ phức tạp thuật toán lên dùng
+|    complexity	|maximum n |
+|Θ(n)	|100 000 000
+Θ(nlogn) |	40 000 000
+Θ(n<sup>2</sup>)	| 10 000
+Θ(n<sup>3</sup>)	|500
+Θ(n<sup>4</sup>)	|90
+Θ(2<sup>n</sup>)	|20
+Θ(N!)	|11
 
 
 #### Tài liệu tham khảo
