@@ -48,8 +48,15 @@ Bạn sẽ thường thấy O(n log(n))trong các thuật toán "chia để tr�
 
 Tất nhiên, đây cũng sẽ là độ phức tạp về thời gian của một vòng lặp chạy theo n thời gian và O(log(n))hoạt động bên trong.
 ## Một số cách tính độ phức tạp thuật toán
-    - Luật cộng : 
-        -Nếu  T1(n) = O(f(n)), T2(n) = O(g(n)), thì T1(n) + T2(n) = O( max {f(n), g(n)} );
+- Luật cộng : 
+      -Nếu  T1(n) = O(f(n)), T2(n) = O(g(n)), thì T1(n) + T2(n) = O( max {f(n), g(n)} );
+            -Ví dụ : 
+                for (int i = 0 ; i < n ; i++){
+                }
+                for (int j = 0 ; j < m ; j++){
+                }
+                nếu n > m thì độ phức tạp thuật toán sẽ là O(n) 
+                    
 - Đánh giá cận : tùy vào input của bài toán mà đưa ra độ phức tạp thuật toán lên dùng
 
 
