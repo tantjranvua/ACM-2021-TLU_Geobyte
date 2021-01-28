@@ -51,8 +51,8 @@
 ## Lịch trình
 |Week|Topics|Home Work|
 | --- | --- | --- |
-|[**Heads Up **](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li>Một số vấn đề về biến .</li></ul>||
-|[**1.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU/tree/main/Week%201)| <ul><li> Độ phức tập thuật toán <ul><li> Giới thiệu 1 số trang luyện tập ||
+|[**Heads Up **](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li>Overview lại các kiến thức cơ bản </li></ul>||
+|[**1.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU/tree/main/Week%201)| <ul><li> Độ phức tập thuật toán </li><li> Giới thiệu 1 số trang luyện tập ||
 |[**2.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
 |[**3.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
 |[**4.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
