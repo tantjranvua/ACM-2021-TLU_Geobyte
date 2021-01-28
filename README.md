@@ -74,26 +74,4 @@
 |[**20.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
 
 
-### Buổi 1:
-- Giải thích về các cuộc thi và định nghĩa về cấu trúc dữ liệu lẫn thuật toán
-- Overview lại các kiến thức cơ bản về C++ , một số vấn đề về biến và các hàm toán học cơ bản
-- Luyện tập các kỹ năng lập trình cơ bản
-
-### Buổi 2:
-- Độ phức tập thuật toán
-- Ôn tập kỹ năng lập trình trên một số trang thông dụng
-- Luyện tập
-
-### Buổi 3:
-- Giới thiệu về đệ quy và kĩ thuật quay lui
-- Luyện tập
-
-### Buổi 4:
-- Giới thiệu về struct
-- Hướng dẫn cách sử dụng struct để xây dựng kiểu dữ liệu mới
-
-### Buổi 5:
-- CTDL: C++ STL 
-- Học về cách sử dụng , ưu nhược điểm của các CTDL : vector , set , pair , multiset , map 
-- Luyện tập trên cses
 
