@@ -1,11 +1,11 @@
 ### [CSES] 
-  - [Weird Algorithm] (https://cses.fi/problemset/task/1068)
-  - [Increasing Array] (https://cses.fi/problemset/task/1094)
+  - [Weird Algorithm](https://cses.fi/problemset/task/1068)
+  - [Increasing Array](https://cses.fi/problemset/task/1094)
 ### Codeforces
-  - [Box is Pull] (https://codeforces.com/problemset/problem/1428/A)
+  - [Box is Pull](https://codeforces.com/problemset/problem/1428/A)
 ### Uva
-  - [Etruscan Warriors Never Play Chess] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2661)
-  - [Robot Instructions] (https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947)
+  - [Etruscan Warriors Never Play Chess](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2661)
+  - [Robot Instructions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947)
 ###
   - Bài 1 : Một xâu  được gọi là beta nếu mỗi phần tử trong xâu xuất hiện ít nhất k lần . Đầu vào là 1 số nguyên k và xâu s . In ra Yes neu la xâu beta , In ra No nếu ko là beta 
       - Input : 2 aaabbbbbc
