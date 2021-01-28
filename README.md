@@ -73,5 +73,10 @@
 |[**19.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
 |[**20.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
 
-
+## Các trang luyện tập
+   - [CSES](https://cses.fi/problemset/)
+   - [Codeforces](https://codeforces.com/)
+   - [Uva](http://uva.onlinejudge.org/)
+   - [HackerRank](https://www.hackerrank.com/)
+   - [ProjectEuler](https://projecteuler.net/) (Trang luyện thêm về tu duy toán học)
 
