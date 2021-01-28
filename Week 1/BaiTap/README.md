@@ -7,10 +7,10 @@
   - [Etruscan Warriors Never Play Chess](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2661)
   - [Robot Instructions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947)
 ### Luyện Tập
-  - Bài 1 : Một xâu  được gọi là beta nếu mỗi phần tử trong xâu xuất hiện ít nhất k lần . Đầu vào là 1 số nguyên k và xâu s . In ra Yes neu la xâu beta , In ra No nếu ko là beta 
+  - Bài 1 : Một xâu  được gọi là beta nếu mỗi phần tử trong xâu xuất hiện ít nhất k lần . Đầu vào là 1 số nguyên k và xâu s . In ra Yes neu la xâu beta , In ra No nếu ko là beta .    1 $\leq$ k  $\leq$ n $\leq$ 10<sup>6</sup>
       - Input : 2 aaabbbbbc
       - Ouput : NO
-  - Bài 2 : Cho dãy gồm n số tự nhiên a1,a2,..an . 1  <= ai <= 100 . Với m lần yêu cầu tìm ra phần tử nhỏ nhất thứ k 1<=n <= 10^6 ,  1<= m <= 10 . Đầu vào là n thể hiện số những những chữ số , dòng tiếp theo là n số tự nhiên . Dòng theo tiếp theo là m phần tử cần tìm . m dòng tiếp theo mỗi dòng sẽ là 1 số nguyên k  là chỉ số cần tìm . 
+  - Bài 2 : Cho dãy gồm n số tự nhiên a1,a2,..an . 1  <= ai <= 100 . Với m lần yêu cầu tìm ra phần tử nhỏ nhất thứ k 1<=n <= 10<sup>6</sup> ,  1<= m <= 10 . Đầu vào là n thể hiện số những những chữ số , dòng tiếp theo là n số tự nhiên . Dòng theo tiếp theo là m phần tử cần tìm . m dòng tiếp theo mỗi dòng sẽ là 1 số nguyên k  là chỉ số cần tìm . 
   Đầu ra là giá trị ở vị trí k . In ra ở m dòng 
       - Input : 8 </p>
                 1 6 4 5 3 2 8 </p>
