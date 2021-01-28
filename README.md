@@ -48,11 +48,11 @@
 - Kết hợp được thuật toán và sử dụng các cấu trúc dữ liệu có sẵn
 
 - Trong mỗi tuần sẽ có các hướng dẫn và code bài giảng cụ thể
-## Here is our Curriculum
+## Lịch trình
 |Week|Topics|Home Work|
 | --- | --- | --- |
 |[**Heads Up **](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li>Một số vấn đề về biến .</li></ul>||
-|[**1.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)| ||
+|[**1.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU/tree/main/Week%201)| <ul><li> Độ phức tập thuật toán <ul><li> Giới thiệu 1 số trang luyện tập ||
 |[**2.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
 |[**3.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
 |[**4.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
