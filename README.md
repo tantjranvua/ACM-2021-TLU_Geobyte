@@ -78,5 +78,5 @@
    - [Codeforces](https://codeforces.com/)
    - [Uva](http://uva.onlinejudge.org/)
    - [HackerRank](https://www.hackerrank.com/)
-   - [ProjectEuler](https://projecteuler.net/) (Trang luyện thêm về tu duy toán học)
+   - [ProjectEuler](https://projecteuler.net/) (Trang luyện thêm về tư duy toán học)
 
