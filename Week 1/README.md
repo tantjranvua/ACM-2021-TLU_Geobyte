@@ -29,7 +29,7 @@ Một thuật toán được coi là  `O(1)`khi : với bất kì giá trị đ�
 
 O(1): +, -, *, /, %, <, >. ==, ===. (Điều này giả định rằng tất cả các số đều có một số kích thước giới hạn như số 32 bit hoặc số 64 bit.)
 
-Phép gán ( =) return và truy cập một giá trị trong mảng ( arr[4]) hoặc đối tượng ( obj['a']) là các ví dụ khác về các bước được xem xét O(1).
+Phép gán ( =) return và truy cập một giá trị trong mảng ( arr[4])  là các ví dụ khác về các bước được xem xét O(1).
 #### O(n)
 
 Để nói một thuật toán là tuyến tính hoặc O(n)có nghĩa là các tài nguyên cần thiết phát triển tỷ lệ thuận với kích thước của đầu vào.
@@ -85,5 +85,5 @@ Tất nhiên, đây cũng sẽ là độ phức tạp về thời gian của m�
 #### Tài liệu tham khảo
 - [Topcoder Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
 - [Topcoder Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
-- [VnoiWiki]          (https://vnoi.info/wiki/translate/topcoder/Computational-Complexity-Section-1.md)
+- [VnoiWiki](https://vnoi.info/wiki/translate/topcoder/Computational-Complexity-Section-1.md)
 
