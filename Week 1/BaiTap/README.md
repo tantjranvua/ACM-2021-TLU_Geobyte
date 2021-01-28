@@ -13,10 +13,10 @@
   - Bài 2 : Cho dãy gồm n số tự nhiên a1,a2,..an . 1  <= ai <= 100 . Với m lần yêu cầu tìm ra phần tử nhỏ nhất thứ k 1<=n <= 10^6 ,  1<= m <= 10 . Đầu vào là n thể hiện số những những chữ số , dòng tiếp theo là n số tự nhiên . Dòng theo tiếp theo là m phần tử cần tìm . m dòng tiếp theo mỗi dòng sẽ là 1 số nguyên k  là chỉ số cần tìm . 
   Đầu ra là giá trị ở vị trí k . In ra ở m dòng 
       - Input : 8 </p>
-                1 6 4 5 3 2 8
-                2
-                4
-                8
-      - Ouput : 4
-                8
+                1 6 4 5 3 2 8 </p>
+                2 </p>
+                4 </p>
+                8 </p>
+      - Ouput : 4 </p>
+                8 </p>
 
