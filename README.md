@@ -1,53 +1,10 @@
-# ACM-OLP-2021-TLU
+# ACM-TLU_Geobyte-2021
 
 ## MỤC TIÊU
 
-- Ngôn ngữ sử dụng chính: C/C++
-- Sử dụng thông thạo các kỹ năng lập trình cơ bản
-- Trang bị đầy đủ kiến thức về cấu trúc dữ liệu và thuật toán
-### Cấu trúc dữ liệu:
-   - Linked List
-   - Stack
-   - Queue
-   - Trie
-   - C++ STL : map , vector , set , ... .
-### Thuật Toán
+- Đạt ít nhất top 100 vòng National
+- AC được 4 bài vòng Regional
 
-  - Lý thuyết số
-    - Số nguyên tố (Sieve of Eratosthenes)
-    - GCD and LCM Euclid’s Algorithm
-  - Đệ quy , Quay lui
-  - Tổ hợp xác xuất
-
-  - Các công thức trong tọa độ 
-
-  - Sorting
-    - Bulble Sort
-    - Selection Sort
-    - Insertion Sort
-    - QuickSort
-    - Merge Sort
-
-  - Searching
-    - Binary Search
-   
-   - Graph Theory
-     - Depth First Search (DFS)
-     - Breadth First Search (BFS) 
-     - Flood Fill
-     - Dijkstra’s Shortest Path
-    
-  - Dynamic programming
-    
-
-  - Strings
-    - Z algorithm
-    - Knuth-Morris-Pratt Algorithm (KMP)
-    - Hash
-
-- Kết hợp được thuật toán và sử dụng các cấu trúc dữ liệu có sẵn
-
-- Trong mỗi tuần sẽ có các hướng dẫn và code bài giảng cụ thể
 ## Lịch trình
 |Week|Topics|Home Work|
 | --- | --- | --- |
