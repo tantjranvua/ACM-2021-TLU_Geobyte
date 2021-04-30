@@ -1,11 +1,15 @@
 # ACM-TLU_Geobyte-2021
 ## Thành viên:
 
-## Yêu cầu luyện tập mỗi tuần
-- Phát triển kĩ năng của từng thành viên 
-- Hoàn thiện notebook của team qua từng tuần 
-- Đọc và tìm hiểu trước topic của tuần . Trao đổi và thống nhất những gì học được 30 phút trong mỗi buổi
-- 
+
+## Yêu cầu luyện tập mỗi tuần:
+- Mỗi tuần team có 1 buổi training . </br>
+
+    * Trước mỗi buỗi sẽ tìm hiểu topic và ở 30 phút đầu sẽ thống nhất những gì đã tìm hiểu .  
+    * Dành 1 tiếng 30 phút làm những bài tập thuộc chủ đề đã tìm hiểu trong topic .
+    * 30 phút cuối sẽ tổng kết lại những kiến thức đã học .
+- Ở 3 tháng đầu tiên mỗi tuần sẽ làm ít nhất 1 contest và 1 bài khó . Và ở những tháng sau sẽ tăng lượng contest làm mỗi tuần .
+- Vào 2-3 tuần cuối cùng sẽ hoàn thiện Notebook và chiến thuật của team .
 ## Lịch trình
 |Week|Topics|Home Work|
 | --- | --- | --- |
@@ -34,7 +38,6 @@
 ## Các trang luyện tập
    - [CSES](https://cses.fi/problemset/)
    - [Codeforces](https://codeforces.com/)
-   - [Uva](http://uva.onlinejudge.org/)
    - [HackerRank](https://www.hackerrank.com/)
    - [ProjectEuler](https://projecteuler.net/) (Trang luyện thêm về tư duy toán học)
 
