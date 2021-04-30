@@ -1,12 +1,11 @@
 # ACM-TLU_Geobyte-2021
 ## Thành viên:
 
-## Mục Tiêu
-
-- Đạt ít nhất top 100 vòng National
-- AC được 4 bài vòng Regional
-## Training
+## Yêu cầu luyện tập mỗi tuần
 - Phát triển kĩ năng của từng thành viên 
+- Hoàn thiện notebook của team qua từng tuần 
+- Đọc và tìm hiểu trước topic của tuần . Trao đổi và thống nhất những gì học được 30 phút trong mỗi buổi
+- 
 ## Lịch trình
 |Week|Topics|Home Work|
 | --- | --- | --- |
