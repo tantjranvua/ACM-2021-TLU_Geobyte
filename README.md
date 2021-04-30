@@ -1,6 +1,6 @@
 # ACM-TLU_Geobyte-2021
 
-## MỤC TIÊU
+## Mục Tiêu
 
 - Đạt ít nhất top 100 vòng National
 - AC được 4 bài vòng Regional
