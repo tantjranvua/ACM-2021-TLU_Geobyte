@@ -1,8 +1,6 @@
 # ACM-TLU_Geobyte-2021
 ## Thành viên:
-- Đoàn Trung Phong
-- Trịnh Đức Tân
-- Nguyễn Đức Minh
+
 
 ## Yêu cầu luyện tập mỗi tuần:
 - Mỗi tuần team có 1 buổi training : </br>
