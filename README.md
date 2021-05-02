@@ -1,6 +1,8 @@
 # ACM-TLU_Geobyte-2021
 ## Thành viên:
-
+Nguyn Đc Minh
+Trung Phong
+Trnh Đc Tân
 
 ## Yêu cầu luyện tập mỗi tuần:
 - Mỗi tuần team có 1 buổi training : </br>
@@ -11,29 +13,20 @@
 - 3 tháng đầu tiên mỗi tuần sẽ làm ít nhất 1 contest và 1 bài khó . Và những tháng sau sẽ tăng lượng contest làm mỗi tuần .
 - Vào 2-3 tuần cuối cùng sẽ hoàn thiện Notebook và chiến thuật của team .
 ## Lịch trình
-|Week|Topics|Home Work|
+|Tuần|Topics|Ghi chú|
 | --- | --- | --- |
 |[**Heads Up **](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**1.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**2.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**3.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**4.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**5.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**6.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**7.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**8.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**9.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**10.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**11.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**12.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**13.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**14.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**15.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**16.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**17.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**18.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**19.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
-|[**20.Week**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 1**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 2**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 3**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 4**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 5**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 6**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 7**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 8**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 9**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Tuần 10**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+
 
 ## Các trang luyện tập
    - [CSES](https://cses.fi/problemset/)
