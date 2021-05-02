@@ -15,7 +15,7 @@
 ## Lịch trình
 |Tuần|Topics|Ghi chú|
 | --- | --- | --- |
-|[**Heads Up **](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
+|[**Heads Up **](https://github.com/Drake1st/ACM-OLP-2021-TLU)| <ul><li>Tổng kết các vấn đề của team trong cuộc thi 2020 </li> ||
 |[**Tuần 1**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|<ul><li> Các tips, tricks liên quan đến giải thuật</li><li> Hình học</li> |<ul><li> Bọn mình sẽ cố gắng update những tip , tricks mà team biết </li>|
 |[**Tuần 2**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
 |[**Tuần 3**](https://github.com/Drake1st/ACM-OLP-2021-TLU)|||
