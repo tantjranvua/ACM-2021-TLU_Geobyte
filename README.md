@@ -2,7 +2,7 @@
 ## Thành viên:
 - Nguyn Đc Minh
 - Trung Phong
-- Trnh Đc Tân
+- Trinh Đc Tân
 
 ## Yêu cầu luyện tập mỗi tuần:
 - Mỗi tuần team có 1 buổi training : </br>
